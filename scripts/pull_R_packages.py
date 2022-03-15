@@ -9,7 +9,7 @@
 from pyquery import PyQuery as pq
 import urllib
 import codecs
-import random
+import randomdgfdgdrfg 
 import #
 
 text_file = codecs.open("Packages.txt", encoding='utf-8', mode="w")
